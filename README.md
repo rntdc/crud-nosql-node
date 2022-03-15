@@ -24,18 +24,8 @@ Development utilities:
 
 ```
 npm install
-```
 
-## Lint
-
-```
-npm run lint
-```
-
-## Test
-
-```
-npm run test
+Create .env file with port and mongo database
 ```
 
 ## Development
